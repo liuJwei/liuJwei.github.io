@@ -1,46 +1,35 @@
 # jemdoc: menu{MENU}{index.html}
-= Yu Zhao
+= Wei Liu
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{230}{}{https://yzhao334.github.io}
+{}{img_left}{photos/bio.jpg}{alt text}{160}{}{https://liujwei.github.io}
 
-[https://yzhao334.github.io Yu Zhao]\n
+[https://liujwei.github.io Wei Liu]\n
 Ph.D. Candidate\n
-Email: yzhao334\[at\]berkeley\[Dot\]edu\n\n
+Email: liuw15\[at\]mails\[Dot\]tsinghua\[Dot\]edu\[Dot\]cn\n\n
 
-Advisor: [http://www.me.berkeley.edu/people/faculty/masayoshi-tomizuka Professor Masayoshi Tomizuka]\n\n
+Department of Automation\n
 
-[http://msc.berkeley.edu/ Mechanical Systems Control Laboratory]\n
-
-[http://www.me.berkeley.edu/ Mechanical Engineering Department]\n
-
-[http://www.berkeley.edu/ University of California, Berkeley]
-
+[http://www.tsinghua.edu.cn/publish/newthu/index.html Tsinghua University]
 ~~~
 
 == About me
-I am currently a Ph.D. student in Prof. Tomizuka's [http://msc.berkeley.edu/ Mechanical Systems Control] (MSC) Lab at Department of Mechanical Engineering of UC Berkeley.
+I am currently a Ph.D. student at Department of Automation of Tsinghua University.
 
-My research interests focus on dynamic systems and control with robotics applications.
-
-You can find more in my [https://yzhao334.github.io/pdf/zhao_CV_sp17_02.pdf Resume] and [https://www.youtube.com/playlist?list=PL8xnJqj4Y2exPK144FG7xOE1gNnO_HDHu Youtube channel].
+My research interests focus on autonomous vehicles control, model predictive control and nonlinear optimization.
 
 == Education
-- Ph.D. student in Mechanical Engineering, [http://www.berkeley.edu/ UC Berkeley] (Berkeley, CA), 2013 - present
-- M.S., Mechanical Engineering, [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University] (Beijing, China), 2009-2013
-- B.S., Mechanical Engineering, [http://www.tsinghua.edu.cn/publish/newthuen/ Tsinghua University] (Beijing, China), 2005-2009
+- Ph.D. student in Control Science and Engineering, [http://www.tsinghua.edu.cn/publish/newthu/index.html Tsinghua University], Beijing, China, 2015 -- present
+- B.S., Control Science and Engineering, [http://en.nwpu.edu.cn Northwestern Polytechnical University (NWPU)], Xi'an, China, 2011 -- 2015
 
 == Experience
-- Research assistant,   [http://msc.berkeley.edu/ MSC Lab],    2013-present
-  -- Motion control of flexible joint robot
-  -- Vibration suppression of industrial robot
-  -- Learning control of industrial robot
-- Intern,   [http://www.energid.com/ Energid Technologies], Cambridge, MA,   Jun.2016-Aug.2016
-  -- Online trajectory generation for bounded velocity, acceleration, and jerk.
-- Intern,   [http://robot.fanucamerica.com/ FANUC], Japan     Jun.2015-Jul.2015, Sep.2016
-  -- Vibration suppression of industrial robot
-
-
-
-
-
+- Graduate Research Assistant, Intelligent Transportation Lab, Tsinghua University, Sep. 2015 – present
+  -- Motion control of autonomous vehicles
+  -- Numerical optimization
+  -- Intelligent transportation systems
+- Intern, [http://www.chinastar.net.cn/ Zhejiang Starlight Electronic Science and Technology Co., Ltd], Zhejiang, China, Jun. 2017 – Aug. 2017
+  -- Design and implementation of a searching and tracking control system for shipborne satellite antennas
+- Team Leader, NWPU Smart Car Innovation Base, Xi’an, China, Oct. 2012 – Aug. 2013
+  -- Algorithm design and implementation
+  -- Embedded programming
+  -- The Intelligent Model Car Competition (IMCC) of China
